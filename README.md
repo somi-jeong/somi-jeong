@@ -7,7 +7,6 @@ I build cross-platform apps with Flutter, ship native pieces in Swift and Kotlin
 
 - 🧭 Leading a Flutter team: architecture, code review, release flow
 - 🤖 Exploring AI-assisted development (Claude Code) for real, everyday tools
-- 🌏 Korean (native) · Japanese (JLPT N1) · English (TOEIC 930)
 
 ## Tech stack
 
