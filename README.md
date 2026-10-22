@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Somi%20Jeong&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Tech%20Lead%20%C2%B7%20Tokyo&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Somi%20Jeong&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Mobile%20Developer%20%C2%B7%20Tokyo&descAlignY=58&animation=fadeIn" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Somi+Jeong+%F0%9F%91%8B;Flutter+Tech+Lead+in+Tokyo+%F0%9F%97%BC;flutter+run+--release+%F0%9F%9A%80" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Somi+Jeong+%F0%9F%91%8B;Mobile+Developer+in+Tokyo+%F0%9F%97%BC;flutter+run+--release+%F0%9F%9A%80" alt="Typing intro" />
 
 **One codebase, every screen.** 東京在住のモバイルエンジニアです。
 
@@ -13,7 +13,7 @@
 ### `$ cat about_me.dart`
 
 ```dart
-class SomiJeong extends Developer with TechLead {
+class SomiJeong extends Developer {
   @override
   final location = 'Tokyo 🗼';
   final yearsOfExperience = 6;
