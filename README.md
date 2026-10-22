@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=180&section=header&text=Somi%20Jeong&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Tech%20Lead%20%C2%B7%20Tokyo&descAlignY=58&animation=fadeIn" width="100%" />
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=02569B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Somi+Jeong+%F0%9F%91%8B;Flutter+Tech+Lead+in+Tokyo+%F0%9F%97%BC;flutter+run+--release+%F0%9F%9A%80" alt="Typing intro" />
@@ -70,6 +72,13 @@ class SomiJeong extends Developer with TechLead {
   </tr>
 </table>
 
+### 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=somi-jeong&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somi-jeong&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
 ### 🐍 My contributions, being eaten
 
 <picture>
@@ -80,5 +89,9 @@ class SomiJeong extends Developer with TechLead {
 ---
 
 <div align="center">
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsomi-jeong&count_bg=%2302569B&title_bg=%23555555&title=visitors&edge_flat=false" />
+<br/>
 <sub>Built with <code>setState()</code> and too much coffee ☕ · <a href="https://github.com/somi-jeong">@somi-jeong</a></sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=110&section=footer" width="100%" />
