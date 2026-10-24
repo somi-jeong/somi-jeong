@@ -51,6 +51,14 @@ class SomiJeong extends Developer {
 
 <table>
   <tr>
+    <td colspan="3" valign="top">
+      <h4>🥦 <a href="https://github.com/somi-jeong/switch-on-diet-flutter">Switch-On Diet (Flutter)</a></h4>
+      A 28-day diet tracker with meal windows timed from wake-up and an AI coach.
+      <br/><br/>
+      <sub>Flutter · Riverpod · Freezed · Hive · Clean Architecture</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top">
       <h4>🗒️ <a href="https://github.com/somi-jeong/TodoSticker">TodoSticker</a></h4>
       A sticky note that lives on your macOS desktop and syncs with Notion every day.
